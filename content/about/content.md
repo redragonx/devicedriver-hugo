@@ -5,28 +5,21 @@ date = "2017-10-05"
 weight = 100
 #background = ""
 
-title = "About Syna"
+title = "About Andrew"
 #subtitle = ""
 +++
 
-Open Source Theme from Okkur for your next project.
-
-Syna is based on the awesome work by digitalcraftsman with his Hugo Agency Theme.
-
-The Hugo Agency Theme was based on the work of David Miller with his Startupbootstrap Agency Theme.
-
-**Provided with <3 by Okkur Labs**
-
 ---
+Since 1991 **DeviceDriver.com** has provided consulting and contract hardware/software development services to hardware and software manufacturers in a wide range of industries.
 
-To actually test out the full single page some Lorem Ipsum:
+Our customers are both small privately held companies as well as Fortune 500 companies.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur a lorem urna. Quisque in neque malesuada, sollicitudin nunc porttitor, ornare est. Praesent ante enim, bibendum sed hendrerit et, iaculis laoreet felis. Morbi efficitur dui sit amet orci porttitor, nec tincidunt turpis elementum. Suspendisse rutrum, mi ac sollicitudin blandit, eros sem tincidunt enim, vitae feugiat turpis eros ut diam. Nunc hendrerit, nibh vitae dignissim pretium, magna nulla lacinia massa, et interdum lacus purus ultricies lacus. Nulla tincidunt quis lacus in posuere. Integer urna lorem, ultricies ut est vel, rhoncus euismod metus. Vestibulum luctus maximus massa, ut egestas est iaculis in. Nunc nisi dolor, sodales et imperdiet ut, lacinia ac justo. Phasellus ultrices risus cursus maximus lobortis. Vestibulum sagittis elementum dignissim. Suspendisse iaculis venenatis nisl, sed bibendum urna. Aliquam quis pellentesque tortor. Sed sed cursus nisl. Aenean eu lorem condimentum, feugiat mauris vitae, hendrerit tellus.
+We have a fully equipped lab for working on hardware designs.
 
-Morbi ac sapien at risus volutpat tincidunt. Sed vel lobortis nisl. Sed mattis facilisis dui quis luctus. Aliquam bibendum venenatis tellus, non interdum nunc convallis in. Sed elementum aliquam tortor, vel consectetur sem sollicitudin sit amet. Nullam in elit turpis. Phasellus sagittis lacus massa, eu porta erat dapibus a. Phasellus placerat, nisi nec molestie accumsan, elit ex rutrum augue, ac pulvinar nulla nisl id velit. Pellentesque sapien dolor, tempus vitae elementum in, gravida ac arcu. Morbi facilisis, mi eget fringilla posuere, lorem ipsum euismod ex, id consequat lacus nisl ac tortor. Vivamus pulvinar dui non arcu lacinia faucibus. Vestibulum sapien leo, pretium in ligula et, aliquet mattis augue. Vestibulum tristique mi ultrices suscipit placerat. Nunc vehicula volutpat tellus sed fringilla.
+We have 20+ years experience of working remotely. Many clients have not even been met with in person! With products such as Skype and Tight VNC problems of working remotely are greatly eased.
 
-Curabitur ipsum ipsum, malesuada at tempus sed, pretium vulputate nunc. Praesent nec lectus ut mauris cursus hendrerit a vitae risus. Aliquam sodales lorem nisl, ut euismod dolor interdum ac. Vivamus facilisis justo vulputate augue finibus imperdiet. Aenean sem magna, tempus id orci eu, sodales pulvinar metus. Nullam pharetra ornare est. Vestibulum aliquet turpis et porttitor euismod. Nulla vitae orci orci. Suspendisse fringilla faucibus blandit. Nulla suscipit nulla ut massa elementum sollicitudin. Vivamus ultrices ipsum arcu, in vestibulum erat aliquam quis. Suspendisse eget mauris tellus. Maecenas euismod blandit odio, sed pellentesque orci mollis eget. Sed eget magna eu justo mollis hendrerit.
+We have experience with medical devices, know something about FDA approval as well as FCC. We have also watched companies make many mistakes, efficiency errors, and reorg's. We can offer you insight into technology, organization structure, technology concept review, projected cost of development, staff capability review, among other things.
 
-Suspendisse molestie, tellus quis finibus facilisis, nulla neque euismod mi, at aliquet lectus arcu ac neque. Proin lacus augue, porttitor in odio vitae, sollicitudin laoreet mi. Donec posuere hendrerit augue hendrerit ornare. Duis vestibulum, nisl sit amet cursus lobortis, felis sapien consequat augue, et accumsan eros ligula id nisl. Praesent iaculis fringilla molestie. Sed consequat nec mi vel venenatis. Nunc felis dui, bibendum ac laoreet pretium, cursus ut orci. Nullam risus nulla, tempus ut bibendum quis, consectetur in risus.
+Andrew is the owner and leads all development projects.  He has 30+ years of experience in the computer industry.   Andrew has experience ranging from IBM mainframe VM & VTAM, PC-DOS TSR's, Windows Device Driver development, data communications, telephony, to Linux.  He is a recognized industry expert on USB and has close ties with Cypress' application groups.
 
-Etiam eget metus elit. Praesent turpis mi, malesuada nec libero a, cursus varius leo. In malesuada gravida est, nec maximus turpis posuere eu. Proin rutrum mattis lectus. Ut mi elit, tincidunt ut aliquet consequat, facilisis vitae arcu. Proin ut massa auctor, imperdiet sem ac, varius justo. Integer porta tellus quis eros sollicitudin mollis. Donec nulla sem, porttitor et velit vitae, tincidunt congue erat. Vivamus urna libero, viverra non pharetra eu, bibendum id arcu. In fermentum bibendum purus, vitae pharetra ipsum gravida quis. Nunc vitae congue diam. Maecenas pharetra orci vel magna fermentum, vitae auctor sapien consectetur. Nunc tempor erat vel nisi ullamcorper mollis. Sed et lectus accumsan, pharetra nunc scelerisque, finibus leo. Sed tempor eros nec nunc porta sodales.
+Our associates have expertise in a wide range of technologies and this insures that your project is always being done by a qualified and knowledgeable engineer!
