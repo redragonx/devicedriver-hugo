@@ -1,5 +1,5 @@
 # Site settings
-baseurl = "/docs/"
+baseurl = "/devicedriver-hugo/"
 languageCode = "en-us"
 title = "Device Driver"
 theme = "syna"
